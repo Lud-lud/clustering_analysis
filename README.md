@@ -14,7 +14,7 @@ Foram criados 4 clusters, sendo eles:
 *  Cluster 2: Baixo desempenho em todas as disciplinas;
 *  Cluster 3: Alto a médio desempenho em todas as disciplinas.
 
-<img src='https://raw.githubusercontent.com/Lud-lud/clustering_analysis/refs/heads/main/clusters.png'/>
+<img src='https://raw.githubusercontent.com/Lud-lud/clustering_analysis/refs/heads/main/clusters_escola.png'/>
 
 Como conclusão do objetivo do estudo, foram feitas as seguintes recomendações:
 
