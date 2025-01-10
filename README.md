@@ -23,7 +23,7 @@ Como conclusão do objetivo do estudo, foram feitas as seguintes recomendações
 *  Cluster 2: Recomenda-se a criação de conteúdos de reforço para todas as disciplinas mescladas entre si.
 *  Cluster 3: Recomenda-se a criação de conteúdos de reforço de Ciências, Língua Portuguesa e Educação Física mesclados com História, Língua Estrangeira e Tecnologia e Informática.
 
-<img src='https://raw.githubusercontent.com/Lud-lud/clustering_analysis/refs/heads/main/3d_plot.png'/>
+<img src='https://raw.githubusercontent.com/Lud-lud/clustering_analysis/refs/heads/main/3d_scatterplot_escola.png'/>
 
 Veja o desenvolvimento completo do projeto [aqui](https://github.com/Lud-lud/clustering_analysis/blob/main/analise_clustering_notas_escolares.ipynb).
 
