@@ -37,6 +37,10 @@ Já o cluster 4 exibiu notas mais altas em todas as disciplinas.
 
 <img src='https://raw.githubusercontent.com/Lud-lud/clustering_analysis/refs/heads/main/boxplot_clusters_enem.png'/>
 
+Os grupos formados possuem notas simulares na maioria das disciplinas, com exceção da Redação. Isso se deve, provavelmente, ao caráter multidisciplinar as questões do Enem, ou seja, a capacidade do inscrito em uma área do conhecimento está correlacionada com as outras áreas devido à presença de conhecimentos e habilidades desta área nas diversas outras áreas.
+
+No entanto, a  nota de Redação tem uma correlação é moderada com as notas das demais áreas. Em geral, as notas na Redação foram maiores do que as notas nas demais áreas. Isto pode estar relacionado com a forma de avaliação, uma vez que a prova de Redação é discursiva, enquanto as provas das demais áreas é de múltipla escolha.
+
 <img src='https://raw.githubusercontent.com/Lud-lud/clustering_analysis/refs/heads/main/3d_scatterplot_clusters_enem.png'/>
 
 Veja o desenvolvimento completo do projeto [aqui](https://github.com/Lud-lud/clustering_analysis/blob/main/analise_clustering_notas_enem.ipynb).
