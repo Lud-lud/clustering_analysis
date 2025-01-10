@@ -1,6 +1,6 @@
 # Segmentação de alunos por meio de método de clusterização k-means
 
-O objetivo deste projeto é desenvolver uma classificação dos estudantes com base nas suas notas. Foram realizadas duas análises, sendo uma com notas reais do Enem, e outra com notas escolares simuladas.
+O objetivo deste projeto é desenvolver uma classificação dos estudantes com base nas suas notas. Foram realizadas duas análises, sendo uma com notas com notas escolares simuladas, e outra com notas reais do Enem.
 
 A análise de clustering com notas do boletim escolar pode ser útil para aplicação de materiais de reforço que mais se adequem às forças e fraquezas dos alunos. Para aqueles alunos com dificuldades em Matemática, mas com facilidade em Ciências da Natureza, podem ser criados exemplos didáticos e questões que ensinem e avaliem o aprendizado de Matemática utilizando contextos oriundos das Ciências da Natureza.
 
